@@ -23,3 +23,6 @@
 ## 방문해 주셔서 감사합니다! 🙌
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Towilll&show_icons=true&theme=radical)
