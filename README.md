@@ -21,3 +21,5 @@
 - [프로젝트 이름](링크): 내가 기여한 오픈 소스 프로젝트에 대한 간략한 설명
 
 ## 방문해 주셔서 감사합니다! 🙌
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
